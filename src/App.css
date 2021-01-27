@@ -1,0 +1,28 @@
+.container{
+	margin-left:30px;
+  font-weight:500;
+	font-weight:bold;
+	color:#373079;
+	font-size:25px;
+
+}
+
+.im{
+  background-color:#ffffff;
+  box-shadow:2px 2px 4px ;
+  width: 15px;
+}
+
+.all{
+
+display: flex;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+
+.aside{
+  width: 30%;
+}
